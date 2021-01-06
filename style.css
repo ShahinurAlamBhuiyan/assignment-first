@@ -1,0 +1,105 @@
+body{
+    margin: 0%;
+    font-family: 'Roboto', sans-serif;
+}
+.name-color{
+    color: orangered;
+}
+h1{
+    font-size: 40px;
+    font-weight: 700px;
+}
+.half-width img{
+    width: 80%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    color: white;
+    padding: 11px 16px 11px 16px;
+    border-radius: 8px;
+    
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 3%;
+    padding-top: 5%;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+section{
+    height: 500px;
+    padding-bottom: 200px;
+}
+.letest-center{
+    text-align: center;
+    padding-top: 100px;
+    padding-right: 25px;
+}
+.three-width{
+    width: 20%;
+    float: left;
+    padding-left: 170px;
+    margin-right: -205px;
+}
+.gray-background{
+    background-image: url(images/gray-backgroundd\ 2.jpg);
+    background-repeat: no-repeat;
+}
+.single-experience{
+    box-shadow: 20px 20px 40px gray;
+    border-radius: 8px;
+    height: 50%;    
+}
+#img-set{
+    margin-left: 15px;
+}
+.experience-banner{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position-y: 126px;
+}
+#stack-area1{
+    border-left: 8px solid;
+    border-image:  linear-gradient(180deg,lightsalmon,tomato);
+    border-image-slice: 1;
+    background-color: white;
+}
+#stack-area2{
+    border-left: 8px solid;
+    border-image: linear-gradient(180deg,blue,cyan);
+    border-image-slice: 1;
+    
+}
+
+.inquey-banner{
+   background-image: url(images/Group_33094_1.png); 
+   background-repeat: no-repeat 
+    
+}
+.inquey-banner{
+    background-size: 50%;
+    background-position-x: 357px;
+}
+#last-button{
+    margin-left: 151px;
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    color: white;
+    padding: 10px 20px 10px 20px;
+    border-radius: 8px;
+}
+#inquery-h1{
+    padding-left: 412px;
+    padding-top: 63px;
+    color: white;
+    
+}
+#topping{
+    margin-top: -87px;
+}
