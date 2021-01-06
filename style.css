@@ -121,3 +121,69 @@ section{
     font-weight: 1100;
     
 }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    margin-right: 65px;
+    
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    
+  }
+
+.icon{
+    float:left;
+    width: 30%;
+}
+.connect{
+    text-align: center;
+    
+}
+#nice{
+    margin-top: 54px;
+    color:gray;
+    height: 900;
+}
+.icon2{
+    float:left;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.icon1{
+    float:left;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.icon{
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.image{
+    margin-left: 455px;
+}
+.connect{
+    text-align: center;
+}
+#gray{
+    color: gray;
+}
+.remove{
+    padding-top: 100px;
+}
+footer{
+    size: 12px;
+    text-align: center;
+    padding-bottom: 50px;
+}
